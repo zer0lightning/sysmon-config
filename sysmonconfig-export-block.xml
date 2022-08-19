@@ -1423,6 +1423,7 @@
 			<Hashes condition="contains">IMPHASH=11083E75553BAAE21DC89CE8F9A195E4</Hashes> <!-- DripLoader -->
 			<Hashes condition="contains">IMPHASH=A23D29C9E566F2FA8FFBB79267F5DF80</Hashes> <!-- DripLoader -->
 			<Hashes condition="contains">IMPHASH=4A07F944A83E8A7C2525EFA35DD30E2F</Hashes> <!-- CreateMiniDump -->
+			<Hashes condition="contains">IMPHASH=9CBEFE68F395E67356E2A5D8D1B285C0</Hashes> <!-- Sliver beacons -->
 			<Hashes condition="contains">IMPHASH=767637C23BB42CD5D7397CF58B0BE688</Hashes> <!-- UACMe Akagi -->
 			<Hashes condition="contains">IMPHASH=14C4E4C72BA075E9069EE67F39188AD8</Hashes> <!-- UACMe Akagi -->
 			<Hashes condition="contains">IMPHASH=3C782813D4AFCE07BBFC5A9772ACDBDC</Hashes> <!-- UACMe Akagi -->
