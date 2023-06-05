@@ -2,6 +2,7 @@
 
 This is a forked and modified version of @SwiftOnSecurity's [sysmon config](https://github.com/SwiftOnSecurity/sysmon-config).
 This is a forked and modified version of Neo23x0's [sysmon config](https://github.com/SwiftOnSecurity/sysmon-config).
+
 Added Living Off The Land Drivers [LolDrivers](https://github.com/magicsword-io/LOLDrivers/blob/main/detections/sysmon/sysmon_config_vulnerable_hashes.xml) to a new config file - [sysmonconfig-export-block-with-vulndrivers.xml](https://github.com/zer0lightning/sysmon-config/blob/master/sysmonconfig-export-block-with-vulndrivers.xml)
 
 It started as a is simply copy of the original repository. We merged most of the 30+ open pull requests. Thus we have fixed many of the issues that are still present in the original version and extended the coverage with important new extensions.
