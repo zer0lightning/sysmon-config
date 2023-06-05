@@ -28,6 +28,7 @@ This repo includes the original and two additional configurations
 - `sysmonconfig-export.xml` the original config provided by @SwiftOnSecurity
 - `sysmonconfig-export-block.xml` the original config provided by @SwiftOnSecurity with some basic blocking rules usable since Sysmon v14 (WARNING: use it with care!)
 - `sysmonconfig-trace.xml` a config by @Cyb3rWard0g that logs just everything with a few examples for debugging or threat research purposes
+- `sysmonconfig-export-block-with-vulndrivers.xml` the original config provided by @SwiftOnSecurity with some basic blocking rules and includes Living Off The Land Drivers from [LOLDrivers.io](https://github.com/magicsword-io/LOLDrivers/blob/main/detections/sysmon/sysmon_config_vulnerable_hashes_block.xml) with blocking rules usable since Sysmon v14 (WARNING: use it with care!)
 
 ## Other Sysmon Configs
 
