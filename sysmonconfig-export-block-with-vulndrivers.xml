@@ -1531,7 +1531,7 @@
 		</FileBlockExecutable>
 	</RuleGroup>
 		<RuleGroup name="" groupRelation="or">
-			<DriverLoad onmatch="include">
+			<FileBlockExecutable onmatch="include">
                 <Hashes condition="contains">MD5=fac8eb49e2fd541b81fcbdeb98a199cb</Hashes>
                 <Hashes condition="contains">MD5=ba5f0f6347780c2ed911bbf888e75bef</Hashes>
                 <Hashes condition="contains">MD5=f60a9b88c6ff07d4990d8653d0025683</Hashes>
@@ -3795,7 +3795,7 @@
                 <Hashes condition="contains">SHA256=263e8f1e20612849aea95272da85773f577fd962a7a6d525b53f43407aa7ad24</Hashes>
                 <Hashes condition="contains">SHA256=0cd4ca335155062182608cad9ef5c8351a715bce92049719dd09c76422cd7b0c</Hashes>
                 <Hashes condition="contains">SHA256=810513b3f4c8d29afb46f71816350088caacf46f1be361af55b26f3fee4662c3</Hashes>
-			</DriverLoad>
+			</FileBlockExecutable>
 		</RuleGroup>
 	</EventFiltering>	
 </Sysmon>
