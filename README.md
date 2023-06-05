@@ -1,8 +1,12 @@
 # sysmon-config | A Sysmon configuration file
 
 This is a forked and modified version of @SwiftOnSecurity's [sysmon config](https://github.com/SwiftOnSecurity/sysmon-config).
+This is a forked and modified version of Neo23x0's [sysmon config](https://github.com/SwiftOnSecurity/sysmon-config).
 
 It started as a is simply copy of the original repository. We merged most of the 30+ open pull requests. Thus we have fixed many of the issues that are still present in the original version and extended the coverage with important new extensions.
+
+# Change added by zer0lightning's fork - credits to https://github.com/magicsword-io/
+- Living Off The Land Drivers [LolDrivers](https://github.com/magicsword-io/LOLDrivers/blob/main/detections/sysmon/sysmon_config_vulnerable_hashes.xml) in blocking mode added.
 
 ## Maintainers of this Fork
 
